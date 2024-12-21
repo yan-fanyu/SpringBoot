@@ -83,8 +83,11 @@
 - [ ] 项目:基于 SpringAlibabaAl和阿里云灵积模型服务开发智能客服系统
 
 # 二、其他
-# 学习的视频地址
+# 学习的视频+源码地址
 **Servlet** \
-https://www.bilibili.com/video/BV1bC4y147gv
+https://www.bilibili.com/video/BV1bC4y147gv \
+https://github.com/yan-fanyu/Servlet
 
-**springboot**
+**springboot** \
+https://www.bilibili.com/video/BV1fmvkeeEth \
+https://github.com/yan-fanyu/SpringBoot
